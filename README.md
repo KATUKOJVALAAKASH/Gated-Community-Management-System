@@ -155,13 +155,6 @@ Admin Dashboard
 
 
 
----
-
-## Resident Profile
-
-> <img width="849" height="827" alt="Screenshot 2026-08-03 134644" src="https://github.com/user-attachments/assets/a4505780-352e-45b7-b41c-034a52812f53" />
-
-
 
 
 ---
