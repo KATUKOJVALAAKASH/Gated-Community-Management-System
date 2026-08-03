@@ -103,9 +103,6 @@ Admin Dashboard
 > <img width="1536" height="842" alt="Screenshot 2026-08-03 134011" src="https://github.com/user-attachments/assets/82076ac0-b4cf-4fb6-a0fc-b66ea392fba0" />
 
 
-```md
-![Home](images/home.png)
-```
 
 ---
 
@@ -114,9 +111,7 @@ Admin Dashboard
 > <img width="597" height="864" alt="Screenshot 2026-08-03 134202" src="https://github.com/user-attachments/assets/3825c7f3-4212-467b-a990-ac8111d11844" />
 
 
-```md
-![Register](images/register.png)
-```
+
 
 ---
 
@@ -125,9 +120,6 @@ Admin Dashboard
 > <img width="630" height="602" alt="Screenshot 2026-08-03 134357" src="https://github.com/user-attachments/assets/29dd12d2-526e-4994-9740-b96dab292fba" />
 
 
-```md
-![Login](images/login.png)
-```
 
 ---
 
@@ -136,9 +128,7 @@ Admin Dashboard
 > <img width="1366" height="847" alt="Screenshot 2026-08-03 134409" src="https://github.com/user-attachments/assets/fbb127e6-4553-4729-a6a2-75be104896d7" />
 
 
-```md
-![Resident Dashboard](images/resident-dashboard.png)
-```
+
 
 ---
 
@@ -147,9 +137,6 @@ Admin Dashboard
 > <img width="710" height="779" alt="Screenshot 2026-08-03 134433" src="https://github.com/user-attachments/assets/098ab704-1562-4403-a3b2-6f9f013fb45d" />
 
 
-```md
-![Raise Complaint](images/raise-complaint.png)
-```
 
 ---
 
@@ -158,9 +145,7 @@ Admin Dashboard
 > <img width="1319" height="562" alt="Screenshot 2026-08-03 134451" src="https://github.com/user-attachments/assets/0d0bbfd9-4226-49ec-a781-dea29e963c76" />
 
 
-```md
-![My Complaints](images/my-complaints.png)
-```
+
 
 ---
 
@@ -169,9 +154,6 @@ Admin Dashboard
 > <img width="1404" height="536" alt="Screenshot 2026-08-03 134631" src="https://github.com/user-attachments/assets/fc1e2195-7bf8-49a4-a171-b5b1704f202f" />
 
 
-```md
-![Solved Complaints](images/solved-complaints.png)
-```
 
 ---
 
@@ -180,9 +162,7 @@ Admin Dashboard
 > <img width="849" height="827" alt="Screenshot 2026-08-03 134644" src="https://github.com/user-attachments/assets/a4505780-352e-45b7-b41c-034a52812f53" />
 
 
-```md
-![Profile](images/profile.png)
-```
+
 
 ---
 
@@ -191,9 +171,7 @@ Admin Dashboard
 > <img width="1503" height="633" alt="Screenshot 2026-08-03 134703" src="https://github.com/user-attachments/assets/002c0764-be66-492f-9bee-1e3f20a6562b" />
 
 
-```md
-![Admin Dashboard](images/admin-dashboard.png)
-```
+
 
 ---
 
